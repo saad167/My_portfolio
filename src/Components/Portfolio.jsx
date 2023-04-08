@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Salary Prediction App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Deploy web application that predict salaries of new employees .It is dedicated especially for human resources manager .",
+    url: "https://github.com/saad167/flask_ML",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Demographic Modelling App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Deploy web application that is modelling the population growth of a given region.",
+    url: "https://github.com/saad167/django_app",
   },
   {
-    title: "My Resume Site",
+    title: "Bitcoin penetration in Morocco",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Deploy web application that is modelling Moroccan people's behavior concerning Bitcoin",
+    url: "https://github.com/saad167/bitcoin_penetration",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Web scraping of public contracts in Morocco",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Develop a web application that carries out the scraping of public contracts, identifying for each contract the competing companies and the winning company.",
+    url: "https://github.com/saad167/market_data",
   },
 ];
 
