@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Saad Babacheikh",
-  title: "Data Scientist",
+  title: "Data Scientist  2",
   email: "babacheikhsaad@gmail.com",
   gitHub: "saad167",
   instagram: "microsoft",
